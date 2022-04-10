@@ -1,0 +1,36 @@
+{
+  "name": "online_shopping_admin",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@tiptap/extension-blockquote": "^2.0.0-beta.26",
+    "@tiptap/extension-heading": "^2.0.0-beta.26",
+    "@tiptap/extension-image": "^2.0.0-beta.27",
+    "@tiptap/extension-underline": "^2.0.0-beta.23",
+    "@tiptap/react": "^2.0.0-beta.108",
+    "@tiptap/starter-kit": "^2.0.0-beta.183",
+    "antd": "^4.19.1",
+    "axios": "^0.26.1",
+    "draft-js-multidecorators": "^1.0.0",
+    "draftjs-utils": "^0.10.2",
+    "mac-scrollbar": "^0.10.0",
+    "nprogress": "^0.2.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-router-dom": "^6.2.2",
+    "remixicon": "^2.5.0"
+  },
+  "devDependencies": {
+    "@types/react": "^17.0.33",
+    "@types/react-dom": "^17.0.10",
+    "@vitejs/plugin-react": "^1.0.7",
+    "less": "^4.1.2",
+    "typescript": "^4.5.4",
+    "vite": "^2.8.0"
+  }
+}
